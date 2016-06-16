@@ -1,0 +1,73 @@
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\WebUI.dll.config
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\WebUI.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\WebUI.pdb
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Helpers.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Mvc.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Razor.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Webpages.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\EntityFramework.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Razor.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Webpages.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Helpers.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\System.Web.Mvc.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\bin\EntityFramework.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\obj\Debug\WebUI.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\WebUI\obj\Debug\WebUI.pdb
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\WebUI\bin\DAL.dll
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\WebUI\bin\DAL.pdb
+D:\Проги\C#\Projects\TestTask\WebUI\bin\WebUI.dll.config
+D:\Проги\C#\Projects\TestTask\WebUI\bin\WebUI.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\WebUI.pdb
+D:\Проги\C#\Projects\TestTask\WebUI\bin\DAL.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\EntityFramework.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Helpers.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Mvc.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Razor.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Webpages.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Проги\C#\Projects\TestTask\WebUI\bin\DAL.pdb
+D:\Проги\C#\Projects\TestTask\WebUI\bin\EntityFramework.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Razor.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Webpages.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Helpers.xml
+D:\Проги\C#\Projects\TestTask\WebUI\bin\System.Web.Mvc.xml
+D:\Проги\C#\Projects\TestTask\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Проги\C#\Projects\TestTask\WebUI\obj\Debug\WebUI.dll
+D:\Проги\C#\Projects\TestTask\WebUI\obj\Debug\WebUI.pdb
+H:\TestTask\WebUI\bin\WebUI.dll.config
+H:\TestTask\WebUI\bin\WebUI.dll
+H:\TestTask\WebUI\bin\WebUI.pdb
+H:\TestTask\WebUI\bin\DAL.dll
+H:\TestTask\WebUI\bin\EntityFramework.dll
+H:\TestTask\WebUI\bin\EntityFramework.SqlServer.dll
+H:\TestTask\WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\TestTask\WebUI\bin\System.Web.Helpers.dll
+H:\TestTask\WebUI\bin\System.Web.Mvc.dll
+H:\TestTask\WebUI\bin\System.Web.Razor.dll
+H:\TestTask\WebUI\bin\System.Web.Webpages.Deployment.dll
+H:\TestTask\WebUI\bin\System.Web.Webpages.dll
+H:\TestTask\WebUI\bin\System.Web.Webpages.Razor.dll
+H:\TestTask\WebUI\bin\DAL.pdb
+H:\TestTask\WebUI\bin\EntityFramework.xml
+H:\TestTask\WebUI\bin\EntityFramework.SqlServer.xml
+H:\TestTask\WebUI\bin\System.Web.Razor.xml
+H:\TestTask\WebUI\bin\System.Web.Webpages.xml
+H:\TestTask\WebUI\bin\System.Web.Webpages.Deployment.xml
+H:\TestTask\WebUI\bin\System.Web.Webpages.Razor.xml
+H:\TestTask\WebUI\bin\System.Web.Helpers.xml
+H:\TestTask\WebUI\bin\System.Web.Mvc.xml
+H:\TestTask\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+H:\TestTask\WebUI\obj\Debug\WebUI.dll
+H:\TestTask\WebUI\obj\Debug\WebUI.pdb

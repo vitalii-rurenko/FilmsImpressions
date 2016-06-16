@@ -1,0 +1,81 @@
+﻿@using DAL.Entities
+@model Film
+
+<form method="post" action="">
+    <div style="text-align: center;">
+        <table>
+            <tr>
+                <td>
+                    <p>
+                        <img class="img-thumbnail" width="220" height="250"
+                             src="@Url.Action("GetImage", "Main", new { id = Model.ID })" />
+                    </p>
+                </td>
+                <td style="text-align: initial;" float left; width="350" valign="top">
+                    <div class="div-margin">
+                        <p>
+                            <b class="b-font-size">@Model.Title</b>
+                        </p>
+                        <p>
+                            <b>Год : </b>
+                            <b>
+                                @Model.Year
+                            </b>
+                        </p>
+                        <p>
+                            <b>Оценка : </b>
+                            <b>
+                                @Model.Rating
+                            </b>
+                        </p>
+                        <p>
+                            @Model.Plot
+                        </p>
+                        <p>
+                            <a href="@Model.IMDbUrl"> Смотреть @Model.Title на IMDb.com</a>
+                        </p>
+                    </div>
+                </td>
+                <td style="text-align: initial;" float left; width="500" valign="top">
+                    @if (Model.Comments.Count == 0)
+                    {
+                        <h3>У этого материала пока нет отзывов</h3>
+                    }
+                    else
+                    {
+                        foreach (var item in Model.Comments)
+                        {
+                            Html.RenderPartial("CommentPartialView", item);
+                        }
+                    }
+                </td>
+            </tr>
+        </table>
+        <div style="text-align: left;">
+            <p>
+                @Html.TextBox("authorName", null, new { placeholder = "Ваше имя", required = true, maxlength = 100, id = "user", autocomplete = "off" })
+                <br />
+                @Html.TextArea("commentary", new { placeholder = "Ваш комментарий", rows = 4, required = true, maxlength = 1000, id = "user", autocomplete = "off" })
+            </p>
+        </div>
+        <p>
+        </p>
+        <p>
+            <input type="submit" value="Сохранить" />
+        </p>
+    </div>
+</form>
+
+<style type='text/css'>
+
+     .div-margin{
+         margin: 5px;
+         padding: 10px;
+     }
+     .b-font-size{
+         font-size:large;
+     }
+      #user {
+     width: 300px; /* Ширина поля в пикселах */
+    }
+</style>

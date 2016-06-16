@@ -1,0 +1,35 @@
+﻿@using DAL.Entities
+@model Film
+
+<form method="post" action="">
+    <div style="text-align: center;" float left;>
+        <p>
+            <a href='@Url.Action("AboutFilm", "Main", new { id = Model.ID }, null)'>
+                <img class="img-thumb" width="200" height="200"
+                     src="@Url.Action("GetImage", "Main", new { id = Model.ID })" />
+            </a>
+            <b>
+                <a href="/Main/AboutFilm/@Model.ID">
+                    @Model.Title
+                </a>
+            </b>
+        </p>
+    </div>
+</form>
+<style>
+        .img-thumb {
+      display: inline-block;
+      height: 275px;
+      max-width: 100%;
+      padding: 4px;
+      line-height: 1.428571429;
+      background-color: #ffffff;
+      border: 1px solid #dddddd;
+      border-radius: 4px;
+      -webkit-transition: all 0.2s ease-in-out;
+              transition: all 0.2s ease-in-out;
+    }
+        .text-overflow{
+           text-overflow:clip;
+        }
+</style>

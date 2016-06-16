@@ -1,0 +1,42 @@
+﻿@using DAL.Entities
+@model List<Film>
+
+
+<form method="post" action="">
+    <div style="text-align: center;">
+        <p>
+            <b>Введите название фильма</b>
+        </p>
+        <p>
+            <input type="text" name="movieName" autocomplete="off" required/>
+            <input type="submit" value="Поиск" />
+        </p>
+    </div>
+    <div style="text-align: center;" float left;>
+        <p>
+            <b>
+                Сохраненные фильмы
+            </b>
+        </p>
+        <table>
+            @for (var i = 0; i < Model.Count(); i += 6)
+            {
+                <tr class="img-margin">
+                    @for (var j = 0; j < 6; j++)
+                    {
+                        <td width="250">
+                            <p>
+                                @{if (i + j < Model.Count)
+                                {
+                                    Html.RenderPartial("FilmPartialView", Model[i + j]);
+                                }
+                                }
+                            </p>
+                        </td>
+                    }
+                </tr>
+            }
+        </table>
+    </div>
+
+</form>

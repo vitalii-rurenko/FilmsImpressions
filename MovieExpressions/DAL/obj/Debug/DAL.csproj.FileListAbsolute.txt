@@ -1,0 +1,38 @@
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\DAL.dll.config
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\DAL.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\DAL.pdb
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\EntityFramework.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\EntityFramework.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\obj\Debug\DAL.dll
+c:\users\bizarro\documents\visual studio 2013\Projects\TestTask\DAL\obj\Debug\DAL.pdb
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\DAL\obj\Debug\DAL.Migrations.Initial.resources
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\bizarro\Documents\Visual Studio 2013\Projects\TestTask\DAL\obj\Debug\DAL.Migrations.RemovedReleaseDate.resources
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\DAL.dll.config
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\DAL.dll
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\DAL.pdb
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\EntityFramework.dll
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\EntityFramework.xml
+D:\Проги\C#\Projects\TestTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проги\C#\Projects\TestTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Проги\C#\Projects\TestTask\DAL\obj\Debug\DAL.Migrations.Initial.resources
+D:\Проги\C#\Projects\TestTask\DAL\obj\Debug\DAL.Migrations.RemovedReleaseDate.resources
+D:\Проги\C#\Projects\TestTask\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\Проги\C#\Projects\TestTask\DAL\obj\Debug\DAL.dll
+D:\Проги\C#\Projects\TestTask\DAL\obj\Debug\DAL.pdb
+H:\TestTask\DAL\bin\Debug\DAL.dll.config
+H:\TestTask\DAL\bin\Debug\DAL.dll
+H:\TestTask\DAL\bin\Debug\DAL.pdb
+H:\TestTask\DAL\bin\Debug\EntityFramework.dll
+H:\TestTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\TestTask\DAL\bin\Debug\EntityFramework.xml
+H:\TestTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\TestTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\TestTask\DAL\obj\Debug\DAL.dll
+H:\TestTask\DAL\obj\Debug\DAL.pdb
+H:\TestTask\DAL\obj\Debug\DAL.Migrations.Init.resources
+H:\TestTask\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
